@@ -72,7 +72,7 @@ I'm a passionate **Full Stack Developer** with expertise in **MERN stack, fintec
 📧 **Email**: [samiranbiswas124@gmail.com](mailto:samiranbiswas124@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/samiran-biswas/](https://www.linkedin.com/in/samiran-biswas/)  
 🌐 **Portfolio**: [samiranbiswas.netlify.app](https://samiranbiswas.netlify.app/)  
-🐙 **GitHub**: [github.com/samiranb124](https://github.com/samiranb124)  
+🐙 **GitHub**: [github.com/samiran-biswas](https://github.com/samiran-biswas)  
 📞 **Phone**: +91 9851215184  
 
 ---
