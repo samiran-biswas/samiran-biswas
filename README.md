@@ -1,90 +1,98 @@
-# 👋 Hi, I'm Samiran Biswas  
+<div align="center">
 
-### 🚀 Full Stack Developer | MERN | Fintech | SaaS | AI  
+# Samiran Biswas
 
-I'm a passionate **Full Stack Developer** with expertise in **MERN stack, fintech applications, SaaS platforms, and AI-powered solutions**. I have built and optimized large-scale applications, integrating **loan management, AI chatbots, and eSign verification** to enhance business efficiency.  
+**Full Stack Engineer · Fintech · SaaS · AI Systems**
 
----
+Building production software across lending, trading tooling, e-sign, and AI — from API design to cloud deploy.
 
-## 👨‍💻 Professional Experience  
+[![Portfolio](https://img.shields.io/badge/Portfolio-samiran.vercel.app-0A0A0A?style=for-the-badge&logo=vercel)](https://samiran.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-samiran--biswas-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samiran-biswas/)
+[![Email](https://img.shields.io/badge/Email-samiranbiswas124%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:samiranbiswas124@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-samiran--biswas-181717?style=for-the-badge&logo=github)](https://github.com/samiran-biswas)
 
-### **🚀 Full Stack Developer at Dinajpur Nidhi Limited** *(Aug 2024 – Present, Siliguri, India)*  
-**Capitorums (Android Application) | Node.js, React.js, MongoDB, React Native, Azure Blob Storage**  
-- Developed a **Loan Management System**, automating loan sanctioning & EMI tracking.  
-- Built **employee role management** & **performance tracking** to enhance workflow.  
-- Designed a **scalable system** handling **300+ daily users**, reducing turnaround time.  
-
-### **💳 Software Development Engineer at Toastbeat** *(Jul 2023 – Aug 2024, Noida, India)*  
-**Loan Origination System (LOS) | Node.js, React.js, MongoDB**  
-- Developed a **Bayes' Theorem engine** to predict loan eligibility, reducing manual reviews.  
-- Built an **AI chatbot** that dynamically interacts with and enhances loan applications.  
-- Created APIs for LMS, automating loan processing & integrating **Aadhaar eSign** verification.  
-- Onboarded **Jindal Capital**, facilitating loan processing for **20,000+ users**.  
-- Implemented **payment gateway integration** for secure transactions.  
-- Developed a **PDF Compressor using Ghostscript** to reduce file sizes efficiently.  
-
-### **📌 Full Stack Developer Intern at RPCAU** *(2022 – 2023, Pusa, India)*  
-**Tractor Maintenance Web App | WordPress, JavaScript, HTML, Android Studio, MySQL**  
-- Led the **Google Map area measurement** feature through dedicated R&D.  
-- Secured **₹27K university funding** by enhancing project feasibility.  
-- Developed a **Tractor Maintenance Web App** to improve servicing efficiency.  
+</div>
 
 ---
 
-## 🔥 Skills  
+### About
 
-### **Frontend**  
-🖥️ HTML5, CSS3, JavaScript, React.js, Redux, Next.js, TypeScript, TailwindCSS, Ant Design  
+Full stack developer with **3+ years** shipping MERN/Next.js products used in fintech and SaaS. I care about clean APIs, reliable deploys, and interfaces that stay fast under real load.
 
-### **Backend**  
-🛠️ Node.js, Express.js, RESTful APIs, Zod, Joi  
-
-### **Databases**  
-💾 MongoDB, MySQL  
-
-### **Cloud & Tools**  
-☁️ AWS, Azure Blob Storage, Git, Google APIs  
-
-### **Programming Languages**  
-📝 C++, JavaScript  
-
-### **Soft Skills**  
-🤝 Leadership, Problem-Solving, Decision-Making  
+- Led loan origination & LMS features serving **20,000+** users  
+- Built systems handling **300+ daily active** operators  
+- Shipping AI systems: RAG, agents, retrieval, evaluation, and cost-aware routing  
 
 ---
 
-## 🌱 Currently Learning  
-- **Microservices Architecture** for scalable applications  
-- **Advanced system design**  
-- **Cloud computing (AWS, Azure)**  
+### Featured work
+
+| Product | What it is | Stack |
+| --- | --- | --- |
+| **DepthinQ** | Order-flow trading terminal — CME/crypto charts, footprint, volume profile, TPO, GEX, replay & paper trading | Next.js · FastAPI · AWS |
+| **Stock Key** | Full-stack trading / markets product (web + APIs + cloud) | Next.js · Node.js · MongoDB · AWS |
+| **AI Systems Portfolio** | 12 production-grade AI systems (RAG, GraphRAG, agents, MCP, evals) | Python · LLM tooling |
+| **Signdots** | End-to-end e-signature platform (web, API, mobile) | React · Node.js · React Native |
+| **Pink Drive** | Women-focused ride-hailing product | Full stack |
+| **Capitorums / LMS** | Loan management & role workflows for NBFCs | React Native · Node.js · MongoDB · Azure |
+
+Public deep-dive: **[ai-systems-portfolio](https://github.com/samiran-biswas/ai-systems-portfolio)** · Portfolio site: **[samiran.vercel.app](https://samiran.vercel.app/)**
 
 ---
 
-## 💼 Open to Collaboration  
-🚀 **Fintech & SaaS Development**  
-📱 **Full Stack Web & Mobile Applications**  
-📊 **Data-driven AI & Machine Learning Solutions**  
-🗺️ **Google Maps API & Real-time Tracking**  
+### Experience
+
+**Full Stack Developer — Dinajpur Nidhi Limited** · *Aug 2024 – Present*  
+Loan management (Capitorums): sanctioning, EMI flows, roles & performance tracking. React Native, Node.js, MongoDB, Azure Blob.
+
+**Software Development Engineer — Toastbeat** · *Jul 2023 – Aug 2024*  
+Loan origination platform: eligibility engine, AI chatbot, Aadhaar eSign, payment gateway, LMS APIs. Onboarded Jindal Capital for **20,000+** users.
+
+**Full Stack Intern — RPCAU** · *2022 – 2023*  
+Tractor maintenance web app; Google Maps area measurement R&D; secured university funding.
 
 ---
 
-## 📫 Connect with Me  
-📧 **Email**: [samiranbiswas124@gmail.com](mailto:samiranbiswas124@gmail.com)  
-💼 **LinkedIn**: [linkedin.com/in/samiran-biswas/](https://www.linkedin.com/in/samiran-biswas/)  
-🌐 **Portfolio**: [samiran.vercel.app](https://samiran.vercel.app/)  
-🐙 **GitHub**: [github.com/samiran-biswas](https://github.com/samiran-biswas)  
-📞 **Phone**: +91 9851215184  
+### Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,mysql,aws,azure,docker,git,tailwind,redux,py,cpp" />
+</p>
+
+**Frontend** — TypeScript, React, Next.js, Redux, Tailwind, Ant Design  
+**Backend** — Node.js, Express, FastAPI, REST, Zod/Joi validation  
+**Data** — MongoDB, MySQL  
+**Cloud & ops** — AWS, Azure Blob, GitHub Actions, Docker  
 
 ---
 
-## 😄 Pronouns  
-He/Him  
+### GitHub
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=samiran-biswas&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiran-biswas&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
+</div>
 
 ---
 
-## ⚡ Fun Fact  
-I have an **agricultural engineering background** but transitioned into **building large-scale fintech and SaaS applications!** 🚀  
+### Currently focused on
+
+- AI agents, RAG evaluation, and production LLM gateways  
+- System design for multi-tenant SaaS  
+- Hardening CI/CD and AWS deployments  
 
 ---
 
-💡 **Let's build something amazing together! Feel free to reach out.**  
+### Contact
+
+Open to **fintech, SaaS, and AI product** roles and collaborations.
+
+**Email:** [samiranbiswas124@gmail.com](mailto:samiranbiswas124@gmail.com)  
+**LinkedIn:** [linkedin.com/in/samiran-biswas](https://www.linkedin.com/in/samiran-biswas/)  
+**Portfolio:** [samiran.vercel.app](https://samiran.vercel.app/)
+
+<div align="center">
+
+*Agricultural engineering background → building large-scale software products.*
+
+</div>
