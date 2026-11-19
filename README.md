@@ -8,8 +8,7 @@
   
   <br/>
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-samiran.vercel.app-111111?style=flat-square&logo=vercel&logoColor=white)](https://samiran.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-samiran--biswas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiran-biswas/)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-samiran--biswas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiran-biswas/)
   [![Email](https://img.shields.io/badge/Email-samiranbiswas124%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:samiranbiswas124@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-samiran--biswas-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/samiran-biswas)
   
@@ -64,8 +63,6 @@ Currently focused on **LLM systems engineering** (context, retrieval, evals, cos
 | [blinkit-search-suggestions](https://github.com/samiran-biswas/blinkit-search-suggestions) | Commerce-style typeahead search UX |
 | [azure-blob-storage-node](https://github.com/samiran-biswas/azure-blob-storage-node) | Azure Blob upload/retrieval utilities |
 | [dsa-a-to-z-takeuforward](https://github.com/samiran-biswas/dsa-a-to-z-takeuforward) | DSA patterns in C++ |
-
-Live portfolio: **[samiran.vercel.app](https://samiran.vercel.app/)**
 
 ---
 
@@ -209,7 +206,6 @@ Open to **AI systems**, **full-stack**, and **platform engineering** roles.
 
 <div align="center">
   
-  **[samiran.vercel.app](https://samiran.vercel.app/)** · **[LinkedIn](https://www.linkedin.com/in/samiran-biswas/)** · **[Email](mailto:samiranbiswas124@gmail.com)**
   
   <sub>IIT Patna M.Tech CSE ’26 · Building reliable AI & full-stack systems</sub>
   
