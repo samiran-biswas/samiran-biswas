@@ -27,16 +27,20 @@ Full stack developer with **3+ years** shipping MERN/Next.js products used in fi
 
 ### Featured work
 
-| Product | What it is | Stack |
-| --- | --- | --- |
-| **DepthinQ** | Order-flow trading terminal — CME/crypto charts, footprint, volume profile, TPO, GEX, replay & paper trading | Next.js · FastAPI · AWS |
-| **Stock Key** | Full-stack trading / markets product (web + APIs + cloud) | Next.js · Node.js · MongoDB · AWS |
-| **AI Systems Portfolio** | 12 production-grade AI systems (RAG, GraphRAG, agents, MCP, evals) | Python · LLM tooling |
-| **Signdots** | End-to-end e-signature platform (web, API, mobile) | React · Node.js · React Native |
-| **Pink Drive** | Women-focused ride-hailing product | Full stack |
-| **Capitorums / LMS** | Loan management & role workflows for NBFCs | React Native · Node.js · MongoDB · Azure |
+Public repositories only:
 
-Public deep-dive: **[ai-systems-portfolio](https://github.com/samiran-biswas/ai-systems-portfolio)** · Portfolio site: **[samiran.vercel.app](https://samiran.vercel.app/)**
+| Project | Description |
+| --- | --- |
+| **[ai-systems-portfolio](https://github.com/samiran-biswas/ai-systems-portfolio)** | 12 production-grade AI systems — RAG, GraphRAG, agents, MCP, evals, cost routing |
+| **[samiran-portfolio](https://github.com/samiran-biswas/samiran-portfolio)** | Personal portfolio — projects, experience, and contact |
+| **[crm-saas](https://github.com/samiran-biswas/crm-saas)** | CRM SaaS starter — customer workflows on the MERN stack |
+| **[task-management](https://github.com/samiran-biswas/task-management)** | Task management web app — boards, workflows, and CRUD |
+| **[blinkit-search-suggestions](https://github.com/samiran-biswas/blinkit-search-suggestions)** | Typeahead search suggestions UI (commerce-style UX) |
+| **[azure-blob-storage-node](https://github.com/samiran-biswas/azure-blob-storage-node)** | Node.js utilities for Azure Blob Storage upload & retrieval |
+| **[stroll](https://github.com/samiran-biswas/stroll)** | Modern web app experiment in React/JavaScript |
+| **[dsa-a-to-z-takeuforward](https://github.com/samiran-biswas/dsa-a-to-z-takeuforward)** | DSA practice in C++ (Take U Forward A-to-Z patterns) |
+
+Portfolio site: **[samiran.vercel.app](https://samiran.vercel.app/)**
 
 ---
 
