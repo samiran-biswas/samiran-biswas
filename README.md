@@ -1,10 +1,10 @@
 <div align="center">
 
 # Samiran Biswas
+### He/Him
 
-**Full Stack Engineer · Fintech · SaaS · AI Systems**
-
-Building production software across lending, trading tooling, e-sign, and AI — from API design to cloud deploy.
+**IIT Patna · M.Tech CSE ’26**  
+Full Stack Engineer · ML / DL / GenAI · Mobile & Web
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-samiran.vercel.app-0A0A0A?style=for-the-badge&logo=vercel)](https://samiran.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-samiran--biswas-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samiran-biswas/)
@@ -17,11 +17,11 @@ Building production software across lending, trading tooling, e-sign, and AI —
 
 ### About
 
-Full stack developer with **3+ years** shipping MERN/Next.js products used in fintech and SaaS. I care about clean APIs, reliable deploys, and interfaces that stay fast under real load.
+Full Stack Engineer and M.Tech CSE candidate at **IIT Patna (’26)**. I build production web, mobile, and AI systems — from Next.js/React Native apps to Go/Python backends, data pipelines, SSO, and ML models.
 
-- Led loan origination & LMS features serving **20,000+** users  
-- Built systems handling **300+ daily active** operators  
-- Shipping AI systems: RAG, agents, retrieval, evaluation, and cost-aware routing  
+- Fintech LMS & loan workflows serving **20,000+** users  
+- AI/data platforms: ETL, ClickHouse/Snowflake analytics, predictive models  
+- Enterprise identity: Azure AD, Okta, OIDC, SAML SSO  
 
 ---
 
@@ -40,33 +40,52 @@ Public repositories only:
 | **[stroll](https://github.com/samiran-biswas/stroll)** | Modern web app experiment in React/JavaScript |
 | **[dsa-a-to-z-takeuforward](https://github.com/samiran-biswas/dsa-a-to-z-takeuforward)** | DSA practice in C++ (Take U Forward A-to-Z patterns) |
 
-Portfolio site: **[samiran.vercel.app](https://samiran.vercel.app/)**
+Portfolio: **[samiran.vercel.app](https://samiran.vercel.app/)**
 
 ---
 
 ### Experience
 
-**Full Stack Developer — Dinajpur Nidhi Limited** · *Aug 2024 – Present*  
-Loan management (Capitorums): sanctioning, EMI flows, roles & performance tracking. React Native, Node.js, MongoDB, Azure Blob.
+**Full Stack Engineer — Stealth Startup (AI)** · *Jun 2025 – Oct 2026* · Remote (US)  
+Full-stack apps with **Next.js, React, TypeScript**; platform work in **Go (Gin)**, **ClickHouse**, and modern web stacks. Built **ETL** pipelines and medical-device intelligence / recall prediction (Logistic Regression, SVM, MLP, Random Forest, XGBoost on FDA 510(k) & adverse-event data). Enterprise **SSO** with Azure AD, Okta, **OIDC**, and **SAML**. Led functional, integration, regression, and E2E testing across apps, APIs, SSO, and data workflows.
 
-**Software Development Engineer — Toastbeat** · *Jul 2023 – Aug 2024*  
-Loan origination platform: eligibility engine, AI chatbot, Aadhaar eSign, payment gateway, LMS APIs. Onboarded Jindal Capital for **20,000+** users.
+**Full Stack Engineer — Dinajpur Nidhi Limited** · *Feb 2023 – Feb 2025* · West Bengal, India (On-site)  
+End-to-end internal fintech system for loan disbursement & collection: user/loan data, sanctioning, EMI tracking, employee roles & performance. Improved operational efficiency and turnaround with a scalable full-stack architecture (**React, Node.js, MongoDB, Azure**).
 
-**Full Stack Intern — RPCAU** · *2022 – 2023*  
-Tractor maintenance web app; Google Maps area measurement R&D; secured university funding.
+**Chief Technology Officer — Intaskr**  
+Technology leadership, AWS, and product engineering for the Intaskr platform.
+
+**Full Stack Developer — College of Agricultural Engineering And Technology (RPCAU)**  
+Web/e-commerce work including WordPress, Google Analytics, and Google Maps integrations.
+
+**SEA Department Head — SAAC (Space and Aeronautics Activity Centre)**  
+Led development teams and coordination for space & aeronautics activity programs.
 
 ---
 
-### Tech stack
+### Technical skills
+
+#### Languages
+`JavaScript` · `TypeScript` · `Python` · `Go` · `Java` · `SQL` · `HTML5` · `CSS` / `CSS3`
+
+#### Frontend & mobile
+`React.js` · `Next.js` · `Redux.js` · `React Native` · `Flutter` · `Android` · `iOS` · `Bootstrap` · `Tailwind`-ready UI stacks
+
+#### Backend & APIs
+`Node.js` · `Express.js` · `FastAPI` · `Flask` · `Gin` · `REST APIs` · Full-stack development
+
+#### Data, ML & GenAI
+`Machine Learning` · `Deep Learning` · `GenAI` · `SQL` · `PostgreSQL` · `MongoDB` · `ClickHouse` · `Snowflake` · `ETL` · predictive modeling (LogReg, SVM, MLP, RF, XGBoost)
+
+#### Cloud, DevOps & identity
+`AWS` · `Microsoft Azure` · `Git` · `Agile` · `Jira` · `Okta SSO` · `Azure AD` · `OIDC` · `SAML 2.0` · Single Sign-On
+
+#### Quality
+`Functional Testing` · `Integration Testing` · `Regression Testing` · `End-to-end Testing`
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,mysql,aws,azure,docker,git,tailwind,redux,py,cpp" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,go,fastapi,postgres,mongodb,aws,azure,docker,git,redux,java,flutter" />
 </p>
-
-**Frontend** — TypeScript, React, Next.js, Redux, Tailwind, Ant Design  
-**Backend** — Node.js, Express, FastAPI, REST, Zod/Joi validation  
-**Data** — MongoDB, MySQL  
-**Cloud & ops** — AWS, Azure Blob, GitHub Actions, Docker  
 
 ---
 
@@ -81,15 +100,15 @@ Tractor maintenance web app; Google Maps area measurement R&D; secured universit
 
 ### Currently focused on
 
-- AI agents, RAG evaluation, and production LLM gateways  
-- System design for multi-tenant SaaS  
-- Hardening CI/CD and AWS deployments  
+- GenAI systems, ML for analytics, and production LLM/RAG workflows  
+- Full-stack platforms with Go/Python services and modern React/Next.js clients  
+- Enterprise SSO, data pipelines, and quality-led releases  
 
 ---
 
 ### Contact
 
-Open to **fintech, SaaS, and AI product** roles and collaborations.
+Open to **full-stack, AI/ML, and platform engineering** roles.
 
 **Email:** [samiranbiswas124@gmail.com](mailto:samiranbiswas124@gmail.com)  
 **LinkedIn:** [linkedin.com/in/samiran-biswas](https://www.linkedin.com/in/samiran-biswas/)  
@@ -97,6 +116,6 @@ Open to **fintech, SaaS, and AI product** roles and collaborations.
 
 <div align="center">
 
-*Agricultural engineering background → building large-scale software products.*
+*IIT Patna M.Tech CSE ’26 · He/Him*
 
 </div>
