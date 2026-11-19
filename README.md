@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Samiran+Biswas;AI+Systems+%26+Full-Stack+Engineer;RAG+%C2%B7+Agents+%C2%B7+GenAI+%C2%B7+LLM+Platforms" alt="Typing SVG" />
+# Samiran Biswas
 
-<br/>
+<div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&height=36&lines=AI+Systems+%26+Full-Stack+Engineer;RAG+%C2%B7+Agents+%C2%B7+GenAI+%C2%B7+LLM+Platforms;Python+%C2%B7+Go+%C2%B7+Next.js+%C2%B7+TypeScript" alt="Typing SVG" />
+</div>
 
 **IIT Patna · M.Tech CSE ’26** · He/Him
 
