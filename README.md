@@ -8,7 +8,7 @@
   
   <br/>
   
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-samiran--biswas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiran-biswas/)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin.com%2Fin%2Fsamiran--biswas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiran-biswas/)
   [![Email](https://img.shields.io/badge/Email-samiranbiswas124%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:samiranbiswas124@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-samiran--biswas-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/samiran-biswas)
   
@@ -201,6 +201,8 @@ Currently focused on **LLM systems engineering** (context, retrieval, evals, cos
 - Enterprise **SSO** and trustworthy data pipelines  
 
 Open to **AI systems**, **full-stack**, and **platform engineering** roles.
+
+**LinkedIn:** [https://www.linkedin.com/in/samiran-biswas/](https://www.linkedin.com/in/samiran-biswas/)
 
 ---
 
